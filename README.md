@@ -33,9 +33,10 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Softwares Adobe:** Photoshop, Premiere, Audition, Media Encoder
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+# 🏆 Troféus do GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=Geovannisz)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ## 🗂️ Highlight Projects
 
