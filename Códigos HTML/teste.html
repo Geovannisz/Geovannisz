@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Text-to-speech</title>
+    <style>
+  textarea {
+    width: 80%;
+    height: 200px;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  button {
+    width: 20%;
+    height: 50px;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #eee;
+    cursor: pointer;
+  }
+</style>
+<textarea id="textarea"></textarea>
+<button id="button">Ler</button>
+
+<script>
+  const textarea = document.getElementById("textarea");
+  const button = document.getElementById("button");
+
+  button.addEventListener("click", function() {
+    readText(textarea.value);
+  });
+
+  function readText(text) {
+    const synth = window.speechSynthesis;
+    const utterance = new SpeechSynthesisUtterance(text);
+    synth.speak(utterance);
+  }
+</script>
