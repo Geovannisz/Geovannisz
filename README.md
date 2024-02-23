@@ -15,7 +15,6 @@ class DataScientist:
     def diga_oi(self):
         print("Obrigado por passar por aqui, espero que encontre o que procura!")
 
-
 eu = DataScientist()
 eu.diga_oi()
 ```
