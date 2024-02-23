@@ -13,7 +13,7 @@ class DataScientist:
         self.language_spoken = ["pt_BR", "en_US"]
 
     def diga_oi(self):
-        print("Obrigado por passar por aqui, espero que você ache alguns dos meus trabalhos interessantes.")
+        print("Obrigado por passar por aqui, espero que encontre o que procura!")
 
 
 eu = DataScientist()
