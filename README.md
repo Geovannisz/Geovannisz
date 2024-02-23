@@ -20,14 +20,14 @@ eu = DataScientist()
 eu.diga_oi()
 ```
 
-## Sobre mim
+## ✏️ Sobre mim
 Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar melhor. Eventualmente isso me envolveu em vários projetos alternativos à minha vida profissional. Aqui vai alguns:
 - 🎥 Fundador do Canal do YouTube [Dois Físicos e um Vetor](https://www.youtube.com/@doisfisicos) *(+450 mil views)*
 - 🔭 Administrador do Grupo do Facebook de [Astronomia e Astrofísica](https://www.facebook.com/groups/181112585774626) *(+280 mil membros)*
 - 📚 Criador, Divulgador e Professor no [Curso de Física Online](https://bagy.bio/fisica) *(+90 alunos)*
 
-## Skills
-- 👨‍💻 **Linguagens de Programação:** Python, C++, SQL, MQL5, ActionScript, Pascal, LaTeX
+## 👨🏻‍💻 Skills
+- :shipit: **Linguagens de Programação:** Python, C++, SQL, MQL5, ActionScript, Pascal, LaTeX
 - 📱 **Bibliotecas de Python:** NumPy, SciPy, Pandas, Matplotlib, Plotly, Dash, PyGame, PyTorch, TensorFlow
 - 📑 **Banco de Dados:** SQLServer, MySQL, NoSQL, Oracle SQL Developer
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
@@ -36,7 +36,7 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 <!--
 # 🏆 Troféus do GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=Geovannisz)](https://github.com/ryo-ma/github-profile-trophy)
--->
+
 
 ## 🗂️ Highlight Projects
 
