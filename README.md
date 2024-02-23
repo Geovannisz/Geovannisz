@@ -33,3 +33,16 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Softwares Adobe:** Photoshop, Premiere, Audition, Media Encoder
 
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geovannisz&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
