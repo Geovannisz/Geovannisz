@@ -10,7 +10,7 @@ class DataScientist:
         self.university = "Universidade de São Paulo (USP)"
         self.course_period = range(2019, 2023)
         self.role = "Cientista de Dados"
-        self.language_spoken = ["pt_BR", "en_US"]
+        self.spoken_language = ["pt_BR", "en_US"]
 
     def diga_oi(self):
         print("Obrigado por passar por aqui, espero que encontre o que procura!")
