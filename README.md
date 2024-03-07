@@ -32,17 +32,27 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Softwares Adobe:** Photoshop, Premiere, Audition, Media Encoder
 
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Geovannisz/SimuladorDeMercado">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geovannisz&repo=SimuladorDeMercado&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SimuladorDeMercado" />
+</a>
+
+<a href="https://github.com/Geovannisz/DocumentosLaTeX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geovannisz&repo=DocumentosLaTeX&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DocumentosLaTeX" />
+</a>
+
+<a href="https://github.com/Geovannisz/MiniGames">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geovannisz&repo=MiniGames&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MiniGames" />
+</a>
+
+<a href="https://github.com/Geovannisz/CalculoNumerico">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geovannisz&repo=CalculoNumerico&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CalculoNumerico" />
+</a>
+
 <!--
 # 🏆 Troféus do GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=Geovannisz)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![SimuladorDeMercado](https://github-readme-stats.vercel.app/api?username=geovannisz&repo=SimuladorDeMercado)](https://github.com/Geovannisz/SimuladorDeMercado)
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geovannisz&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
