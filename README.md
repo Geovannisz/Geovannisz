@@ -32,6 +32,8 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Softwares Adobe:** Photoshop, Premiere, Audition, Media Encoder
 
+<!--
+
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Geovannisz/SimuladorDeMercado">
@@ -50,7 +52,6 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geovannisz&repo=CalculoNumerico&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CalculoNumerico" />
 </a>
 
-<!--
 # 🏆 Troféus do GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=Geovannisz)](https://github.com/ryo-ma/github-profile-trophy)
 
