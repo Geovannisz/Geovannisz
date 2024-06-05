@@ -38,10 +38,11 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512992615141)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Geovanni.2001)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6458-5486)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umgeovanni)
 [![Lattes](https://img.shields.io/badge/Lattes-86CEFF?style=for-the-badge&logo=graduation-cap&logoColor=black)](https://lattes.cnpq.br/5771130741859448)
 
 <!--
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umgeovanni)
 
 ## 🗂️ Highlight Projects
 
