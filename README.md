@@ -42,6 +42,11 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 
 <!--
 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@SEU_USUARIO)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SEU_USUARIO)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/SEU_USUARIO)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/SEU_USUARIO)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SEU_USUARIO)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/SEU_ID_USUARIO)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umgeovanni)
 
