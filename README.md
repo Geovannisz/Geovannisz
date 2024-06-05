@@ -42,6 +42,7 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 
 <!--
 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/SEU_ID_USUARIO)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umgeovanni)
 
 ## 🗂️ Highlight Projects
