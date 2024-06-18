@@ -26,7 +26,7 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 - 📚 Criador, Divulgador e Professor no [Curso Online de Física](https://bagy.bio/fisica) *(+90 alunos)*
 
 ## 👨🏻‍💻 Skills
-- :shipit: **Linguagens de Programação:** Python, C#, SQL, MQL5, ActionScript, Pascal, LaTeX
+- :shipit: **Linguagens de Programação:** Python, C#, SQL, MQL5, HTML, CSS, JavaScript, ActionScript, Pascal, LaTeX
 - 📱 **Bibliotecas de Python:** NumPy, SciPy, Pandas, Matplotlib, Plotly, Dash, PyGame, PyTorch, TensorFlow
 - 📑 **Banco de Dados:** SQLServer, MySQL, NoSQL, Oracle SQL Developer
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
