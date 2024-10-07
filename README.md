@@ -23,7 +23,7 @@ eu.diga_oi()
 Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar melhor. Eventualmente isso me envolveu em vários projetos alternativos à minha vida profissional. Aqui vai alguns:
 - 🎥 Fundador do Canal do YouTube [Dois Físicos e um Vetor](https://www.youtube.com/@doisfisicos) *(+500 mil views)*
 - 🔭 Administrador do Grupo do Facebook de [Astronomia e Astrofísica](https://www.facebook.com/groups/181112585774626) *(+300 mil membros)*
-- 📚 Criador, Divulgador e Professor no [Curso Online de Física](https://bagy.bio/fisica) *(+90 alunos)*
+- 📚 Criador, Divulgador e Professor no [Curso Online de Física](https://geovannisz.github.io/COF/) *(+90 alunos)*
 
 ## 👨🏻‍💻 Skills
 - :shipit: **Linguagens de Programação:** Python, C#, SQL, MQL5, HTML, CSS, JavaScript, ActionScript, Pascal, LaTeX
