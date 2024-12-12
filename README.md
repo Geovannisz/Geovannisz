@@ -8,7 +8,8 @@ class DataScientist:
         self.age = "23 anos"
         self.college_course = "Bacharelado em Física"
         self.university = "Universidade de São Paulo (USP)"
-        self.course_period = range(2019, 2023)
+        self.current_status = "Mestrando em Física"
+        self.current_project = "Otimização espacial dos tiles do radiotelescópio BINGO"
         self.role = "Cientista de Dados"
         self.spoken_language = ["pt_BR", "en_US"]
 
@@ -20,7 +21,9 @@ eu.diga_oi()
 ```
 
 ## ✏️ Sobre mim
-Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar melhor. Eventualmente isso me envolveu em vários projetos alternativos à minha vida profissional. Aqui vai alguns:
+Minha jornada é guiada pela curiosidade e pela busca de soluções práticas e inovadoras. Atualmente, sou mestrando no Instituto de Física da USP, onde integro o projeto BINGO. Estou focado em otimizar a distribuição espacial de tiles do radiotelescópio, visando minimizar lóbulos laterais e maximizar a precisão das observações cosmológicas. Meu trabalho envolve simulações computacionais, análise de dados e modelagem matemática.
+
+Além disso, mantenho uma atuação diversificada em projetos de divulgação científica e educação:
 - 🎥 Fundador do Canal do YouTube [Dois Físicos e um Vetor](https://www.youtube.com/@doisfisicos) *(+500 mil views)*
 - 🔭 Administrador do Grupo do Facebook de [Astronomia e Astrofísica](https://www.facebook.com/groups/181112585774626) *(+300 mil membros)*
 - 📚 Criador, Divulgador e Professor no [Curso Online de Física](https://geovannisz.github.io/COF/) *(+30 alunos)*
@@ -31,6 +34,8 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 - 📑 **Banco de Dados:** SQLServer, MySQL, NoSQL, Oracle SQL Developer
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Softwares Adobe:** Photoshop, Premiere, Audition, Media Encoder
+
+Aproveito minha experiência técnica e analítica para transformar ideias em soluções reais e impactantes. Vamos construir algo incrível juntos!
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umgeovanni)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@doisfisicos)
