@@ -40,9 +40,9 @@ Sempre fui movido pela curiosidade e por um objetivo de tornar o mundo um lugar 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6458-5486)
 [![Lattes](https://img.shields.io/badge/Lattes-86CEFF?style=for-the-badge&logo=graduation-cap&logoColor=black)](https://lattes.cnpq.br/5771130741859448)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21sojnooi5oiwo2ryumuehm3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21sojnooi5oiwo2ryumuehm3q&redirect=true)
-
 <!--
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21sojnooi5oiwo2ryumuehm3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21sojnooi5oiwo2ryumuehm3q&redirect=true)
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@SEU_USUARIO)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SEU_USUARIO)
