@@ -9,7 +9,7 @@ class DataScientist:
         self.college_course = "Bacharelado em Física"
         self.university = "Universidade de São Paulo (USP)"
         self.current_status = "Mestrando em Física"
-        self.current_project = "Otimização espacial dos tiles do radiotelescópio BINGO"
+        self.current_project = "Otimização espacial dos tiles do radiotelescópio BINGO/ABDUS"
         self.role = "Cientista de Dados"
         self.spoken_language = ["pt_BR", "en_US"]
 
