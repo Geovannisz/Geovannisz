@@ -35,8 +35,6 @@ Além disso, mantenho uma atuação diversificada em projetos de divulgação ci
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Softwares Adobe:** Photoshop, Premiere, Audition, Media Encoder
 
-Aproveito minha experiência técnica e analítica para transformar ideias em soluções reais e impactantes. Vamos construir algo incrível juntos!
-
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umgeovanni)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@doisfisicos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geoo_garciaa/)
