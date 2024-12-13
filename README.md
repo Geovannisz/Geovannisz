@@ -29,7 +29,7 @@ Além disso, mantenho uma atuação diversificada em projetos de divulgação ci
 - 📚 Criador, Divulgador e Professor no [Curso Online de Física](https://geovannisz.github.io/COF/) *(+30 alunos)*
 
 ## 👨🏻‍💻 Skills
-- :shipit: **Linguagens de Programação:** Python, C#, SQL, MQL5, HTML, CSS, JavaScript, ActionScript, Pascal, LaTeX
+- :shipit: **Linguagens:** Python, C#, SQL, MQL5, HTML, CSS, JavaScript, ActionScript, Pascal, LaTeX
 - 📱 **Bibliotecas de Python:** NumPy, SciPy, Pandas, Matplotlib, Plotly, Dash, PyGame, PyTorch, TensorFlow
 - 📑 **Banco de Dados:** SQLServer, MySQL, NoSQL, Oracle SQL Developer
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
