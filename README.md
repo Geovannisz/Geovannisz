@@ -6,10 +6,10 @@ class PhysicsStudent:
     def __init__(self):
         self.name = "Geovanni Fernandes Garcia"
         self.age = "24 years"
-        self.nation = 'Brazil'
+        self.nation = "Brazil"
         self.role = "Master's Student in Physics"
-        self.research = 'Cosmology'
-        self.member = 'BINGO/ABDUS Radio Telescope'
+        self.research = "Cosmology"
+        self.member = "BINGO/ABDUS Radio Telescope"
         self.main_project = "Optimizing the Vivaldi Antenna Configuration for the BINGO/ABDUS Radio Telescope"
         self.university = "University of São Paulo (USP)"
         self.spoken_language = ["pt_BR", "en_US"]
