@@ -22,8 +22,6 @@ eu.says_hi()
 ```
 
 ## ✏️ About me
-Minha jornada é guiada pela curiosidade e pela busca de soluções práticas e inovadoras. Atualmente, sou mestrando no Instituto de Física da USP, onde integro o projeto BINGO/ABDUS. Estou focado em otimizar a distribuição espacial de tiles do radiotelescópio, visando minimizar lóbulos laterais e maximizar a precisão das observações cosmológicas. Meu trabalho envolve simulações computacionais, análise de dados e modelagem matemática.
-
 My journey is guided by curiosity and the search for practical and innovative solutions. I'm currently a master's student at USP, where I'm part of the BINGO/ABDUS project. I'm focused on optimizing the spatial distribution of radio telescope tiles in order to minimize side lobes and maximize the accuracy of cosmological observations. My work involves computer simulations, data analysis and mathematical modeling.
 
 Translated with DeepL.com (free version)
