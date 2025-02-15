@@ -1,23 +1,24 @@
-# Seja bem vindo! 👋
+# Welcome! 👋
 
 ```python
-class DataScientist:
+class PhysicsStudent:
 
     def __init__(self):
         self.name = "Geovanni Fernandes Garcia"
-        self.age = "23 anos"
-        self.college_course = "Bacharelado em Física"
-        self.university = "Universidade de São Paulo (USP)"
-        self.current_status = "Mestrando em Física"
-        self.current_project = "Otimização espacial dos tiles do radiotelescópio BINGO/ABDUS"
-        self.role = "Cientista de Dados"
+        self.age = "24 anos"
+        self.nation = 'Brazil'
+        self.role = "Master's Student in Physics"
+        self.research = 'Cosmology'
+        self.member = 'BINGO/ABDUS Radio Telescope'
+        self.main_project = "Optimizing the Vivaldi Antenna Configuration for the BINGO/ABDUS Radio Telescope"
+        self.university = "University of São Paulo (USP)"
         self.spoken_language = ["pt_BR", "en_US"]
 
-    def diga_oi(self):
-        print("Obrigado por passar por aqui, espero que encontre o que procura!")
+    def says_hi(self):
+        print("Hey there, hope you find what you're looking for!")
 
-eu = DataScientist()
-eu.diga_oi()
+eu = PhysicsStudent()
+eu.says_hi()
 ```
 
 ## ✏️ Sobre mim
