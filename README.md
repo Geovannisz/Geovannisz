@@ -24,8 +24,6 @@ eu.says_hi()
 ## ✏️ About me
 My journey is guided by curiosity and the search for practical and innovative solutions. I'm currently a master's student at USP, where I'm part of the BINGO/ABDUS project. I'm focused on optimizing the spatial distribution of radio telescope tiles in order to minimize side lobes and maximize the accuracy of cosmological observations. My work involves computer simulations, data analysis and mathematical modeling.
 
-Translated with DeepL.com (free version)
-
 In addition, I maintain a diversified role in scientific dissemination and education projects:
 - 🎥 Founder of the YouTube Channel [Dois Físicos e um Vetor](https://www.youtube.com/@doisfisicos) *(+500k views)*
 - 🔭 Administrator of the Facebook Group [Astronomia e Astrofísica](https://www.facebook.com/groups/181112585774626) *(+300k members)*
