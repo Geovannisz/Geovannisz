@@ -17,8 +17,8 @@ class PhysicsStudent:
     def says_hi(self):
         print("Hey there, hope you find what you're looking for!")
 
-eu = PhysicsStudent()
-eu.says_hi()
+me = PhysicsStudent()
+me.says_hi()
 ```
 
 ## ✏️ About me
