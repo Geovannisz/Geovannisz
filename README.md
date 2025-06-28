@@ -25,7 +25,7 @@ me.says_hi()
 <tr>
 <td valign="top" width="70%">
 
-### ✏️ About me
+## ✏️ About me
 My journey is guided by curiosity and the search for practical and innovative solutions. I'm currently a master's student at USP, where I'm part of the BINGO/ABDUS project. I'm focused on optimizing the spatial distribution of radio telescope tiles in order to minimize side lobes and maximize the accuracy of cosmological observations. My work involves computer simulations, data analysis and mathematical modeling.
 
 In addition, I maintain a diversified role in scientific dissemination and education projects:
@@ -36,7 +36,7 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 </td>
 <td valign="top" width="30%" align="center">
 
-**Principais idiomas**
+**Most Used Languages**
 <br>
 
 <a href="https://github.com/Geovannisz#gh-light-mode-only">
