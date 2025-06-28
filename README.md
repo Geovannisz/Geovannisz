@@ -36,7 +36,6 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 </td>
 <td valign="top" width="30%" align="center">
 
-**Most Used Languages**
 <br>
 
 <a href="https://github.com/Geovannisz#gh-light-mode-only">
