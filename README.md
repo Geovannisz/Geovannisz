@@ -51,8 +51,8 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 </table>
 
 ## 👨🏻‍💻 Skills
-- :shipit: **Languages:** Python, C#, SQL, MQL5, HTML, CSS, JavaScript, ActionScript, Pascal, LaTeX
-- 📱 **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib, Plotly, Dash, PyGame, PyTorch, TensorFlow
+- :shipit: **Languages:** Python, C#, SQL, MQL5, HTML, CSS, JavaScript, ActionScript, Pascal, LaTeX, IRAF
+- 📱 **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib, Plotly, Dash, PyGame, PyTorch, TensorFlow, Pyraf
 - 📑 **Database:** SQLServer, MySQL, NoSQL, Oracle SQL Developer
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Adobe Softwares:** Photoshop, Premiere, Audition, Media Encoder
