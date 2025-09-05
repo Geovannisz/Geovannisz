@@ -64,9 +64,27 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6458-5486)
 [![Lattes](https://img.shields.io/badge/Lattes-86CEFF?style=for-the-badge&logo=graduation-cap&logoColor=black)](https://lattes.cnpq.br/5771130741859448)
 
-
-
-
+## 🏆 My GitHub Stats
+<table>
+  <tr>
+    <td valign="top" width="45%" align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
+        <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=flat&row=2&column=4#gh-light-mode-only" alt="github trophies" />
+      </a>
+      <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
+        <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=dracula&row=2&column=4#gh-dark-mode-only" alt="github trophies" />
+      </a>
+    </td>
+    <td valign="top" width="55%" align="center">
+      <a href="https://github.com/Geovannisz#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=geovannisz&show_icons=true&theme=default#gh-light-mode-only" alt="Geovanni's GitHub Stats"/>
+      </a>
+      <a href="https://github.com/Geovannisz#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=geovannisz&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="Geovanni's GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 
@@ -98,9 +116,8 @@ In addition, I maintain a diversified role in scientific dissemination and educa
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geovannisz&repo=CalculoNumerico&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CalculoNumerico" />
 </a>
 
-# 🏆 Troféus do GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=Geovannisz)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![SimuladorDeMercado](https://github-readme-stats.vercel.app/api?username=geovannisz&repo=SimuladorDeMercado)](https://github.com/Geovannisz/SimuladorDeMercado)
+
+
 
 
