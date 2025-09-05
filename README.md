@@ -21,28 +21,9 @@ me = PhysicsStudent()
 me.says_hi()
 ```
 
-<table>
-<tr>
-<td valign="top" width="70%">
-
 ## ✏️ About me
 My journey is guided by curiosity and the search for practical and innovative solutions. I'm currently a master's student at USP, where I'm part of the BINGO/ABDUS project. I'm focused on optimizing the spatial distribution of radio telescope tiles in order to minimize side lobes and maximize the accuracy of cosmological observations. My work involves computer simulations, data analysis and mathematical modeling.
 
-</td>
-<td valign="top" width="30%" align="center">
-
-<br>
-
-<a href="https://github.com/Geovannisz#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannisz&theme=default&langs_count=10#gh-light-mode-only" alt="Principais idiomas"/>
-</a>
-<a href="https://github.com/Geovannisz#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannisz&theme=tokyonight&langs_count=10#gh-dark-mode-only" alt="Principais idiomas"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 In addition, I maintain a diversified role in scientific dissemination and education projects:
 - 🎥 Founder of the YouTube Channel [Dois Físicos e um Vetor](https://www.youtube.com/@doisfisicos) *(+500k views)*
@@ -57,26 +38,18 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 - ✒️ **Adobe Softwares:** Photoshop, Premiere, Audition, Media Encoder
 
 ## 🏆 My GitHub Stats
-<table>
-  <tr>
-    <td valign="top" width="45%" align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-        <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=flat&row=2&column=4#gh-light-mode-only" alt="github trophies" />
-      </a>
-      <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-        <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=dracula&row=2&column=4#gh-dark-mode-only" alt="github trophies" />
-      </a>
-    </td>
-    <td valign="top" width="55%" align="center">
-      <a href="https://github.com/Geovannisz#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=geovannisz&show_icons=true&theme=default#gh-light-mode-only" alt="Geovanni's GitHub Stats"/>
-      </a>
-      <a href="https://github.com/Geovannisz#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=geovannisz&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="Geovanni's GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=flat&row=1&column=8#gh-light-mode-only" alt="GitHub Trophies (light mode)" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=dracula&row=1&column=8#gh-dark-mode-only" alt="GitHub Trophies (dark mode)" />
+</a>
+
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umgeovanni)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@doisfisicos)
