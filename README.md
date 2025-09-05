@@ -21,10 +21,10 @@ me = PhysicsStudent()
 me.says_hi()
 ```
 
-![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/main/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/main/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/main/generated/languages.svg#gh-light-mode-only)
 
 ## ✏️ About me
 My journey is guided by curiosity and the search for practical and innovative solutions. I'm currently a master's student at USP, where I'm part of the BINGO/ABDUS project. I'm focused on optimizing the spatial distribution of radio telescope tiles in order to minimize side lobes and maximize the accuracy of cosmological observations. My work involves computer simulations, data analysis and mathematical modeling.
