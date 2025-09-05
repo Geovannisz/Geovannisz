@@ -21,6 +21,11 @@ me = PhysicsStudent()
 me.says_hi()
 ```
 
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ## ✏️ About me
 My journey is guided by curiosity and the search for practical and innovative solutions. I'm currently a master's student at USP, where I'm part of the BINGO/ABDUS project. I'm focused on optimizing the spatial distribution of radio telescope tiles in order to minimize side lobes and maximize the accuracy of cosmological observations. My work involves computer simulations, data analysis and mathematical modeling.
 
@@ -37,7 +42,7 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Adobe Softwares:** Photoshop, Premiere, Audition, Media Encoder
 
-## 🏆 My GitHub Stats
+## 🏆 GitHub Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
   <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=flat&row=1&column=8#gh-light-mode-only" alt="GitHub Trophies (light mode)" />
@@ -45,11 +50,6 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
   <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=dracula&row=1&column=8#gh-dark-mode-only" alt="GitHub Trophies (dark mode)" />
 </a>
-
-![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Geovannisz/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umgeovanni)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@doisfisicos)
