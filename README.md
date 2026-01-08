@@ -42,14 +42,7 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 - 📊 **Dashboards:** Wolfram Mathematica, Matlab, Tableau, Overleaf, Power BI, Excel
 - ✒️ **Adobe Softwares:** Photoshop, Premiere, Audition, Media Encoder
 
-## 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-  <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=flat&row=1&column=8#gh-light-mode-only" alt="GitHub Trophies (light mode)" />
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-  <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=dracula&row=1&column=8#gh-dark-mode-only" alt="GitHub Trophies (dark mode)" />
-</a>
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umgeovanni)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@doisfisicos)
@@ -60,6 +53,16 @@ In addition, I maintain a diversified role in scientific dissemination and educa
 [![Lattes](https://img.shields.io/badge/Lattes-86CEFF?style=for-the-badge&logo=graduation-cap&logoColor=black)](https://lattes.cnpq.br/5771130741859448)
 
 <!--
+
+## 🏆 GitHub Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=flat&row=1&column=8#gh-light-mode-only" alt="GitHub Trophies (light mode)" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=Geovannisz&theme=dracula&row=1&column=8#gh-dark-mode-only" alt="GitHub Trophies (dark mode)" />
+</a>
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21sojnooi5oiwo2ryumuehm3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21sojnooi5oiwo2ryumuehm3q&redirect=true)
 
