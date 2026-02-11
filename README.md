@@ -5,7 +5,7 @@ class PhysicsStudent:
 
     def __init__(self):
         self.name = "Geovanni Fernandes Garcia"
-        self.age = "24 years"
+        self.age = "25 years"
         self.nation = "Brazil"
         self.role = "Master's Student in Physics"
         self.research = "Cosmology"
