@@ -31,7 +31,7 @@ My journey is guided by curiosity and the search for practical and innovative so
 
 
 In addition, I maintain a diversified role in scientific dissemination and education projects:
-- 🎥 Founder of the YouTube Channel [Dois Físicos e um Vetor](https://www.youtube.com/@doisfisicos) *(+500k views)*
+- 🎥 Founder of the YouTube Channel [Dois Físicos e um Vetor](https://www.youtube.com/@doisfisicos) *(+600k views)*
 - 🔭 Administrator of the Facebook Group [Astronomia e Astrofísica](https://www.facebook.com/groups/181112585774626) *(+280k members)*
 - 📚 Creator, Promoter and Professor at [Curso Online de Física](https://geovannisz.github.io/COF/) *(+30 students)*
 
